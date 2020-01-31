@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "website of Simran",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-module": "^2.0.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
