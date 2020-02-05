@@ -130,6 +130,11 @@ a:hover {
   font-size: 1.1rem;
 }
 
+.about-info a{
+  color: #0062d3;
+  text-decoration: underline;
+}
+
 /*--/ Title A /--*/
 
 .title-box {
